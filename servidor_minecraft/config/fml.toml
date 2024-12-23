@@ -1,7 +1,7 @@
 # Enable forge global version checking
-versionCheck = false
+versionCheck = true
 # does the splashscreen run
-splashscreen = false
+splashscreen = true
 # Disables Optimized DFU client-side.
 disableOptimizedDFU = true
 defaultConfigPath = "defaultconfigs"
