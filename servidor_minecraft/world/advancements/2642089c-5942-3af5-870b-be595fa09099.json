@@ -1,7 +1,9 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2024-12-23 05:28:20 +0000"
+      "minecraft:beach": "2024-12-24 07:46:20 +0000",
+      "minecraft:savanna": "2024-12-24 07:46:31 +0000",
+      "minecraft:plains": "2024-12-24 07:46:33 +0000"
     },
     "done": false
   },

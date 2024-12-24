@@ -1,463 +1,324 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931430011 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735026214004 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931433138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026217063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931436203 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026220133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931439268 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026223191 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931454353 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026226263 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931457436 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026229328 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931460500 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026232445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931463568 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026235567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931466624 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026238629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931469695 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026241690 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931472752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026244749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931475820 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026247808 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931490920 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026250862 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931493987 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026253922 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931497058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026256981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931500117 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026260035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931503223 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026263090 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931506312 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026266178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931509365 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026269234 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931512415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026272290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931515466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026275347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931530549 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026278406 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931533605 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026281467 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931536677 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026284536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931539736 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026287601 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931542792 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026290749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931545844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026293830 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931548898 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026296905 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931551957 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026299966 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931555009 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026303035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931558064 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026306089 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931573153 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026309150 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931576233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026312222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931579303 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026315287 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931582371 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026318365 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931585431 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026321427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931588486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026324493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931603570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026327556 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931606628 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026330628 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931609690 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026333684 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931612757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026336741 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931615854 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026339798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931619101 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026342854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931634178 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026345918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931637233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026348986 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931640285 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026352048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931643348 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026355111 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931646405 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026358171 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931649465 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026361223 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931652520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026364280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931667616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026367341 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931670669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026370403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931673731 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026373460 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931676788 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026376530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931679968 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026379585 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931683017 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026382640 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931686100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026385708 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931689170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026388761 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931704271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026391819 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931707340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026394880 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931710399 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026398013 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931713454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026401080 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931716612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026404135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931731691 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026407191 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931734770 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931737827 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931740883 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931743989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931747064 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931750166 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931765250 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931768306 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931771368 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931774432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931777485 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931792562 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931795622 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931798687 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931801751 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931804812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734931819897 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931822973 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931826036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931829095 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-goods-fantastic.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734931832154 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735026410246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
